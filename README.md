@@ -5,7 +5,7 @@
 ## 🔧 Стек технологий и инструментов
 
 - **Языки программирования**: JavaScript, TypeScript
-- **Фронтенд**: React, Redux, MobX, HTML, CSS, Bootstrap
+- **Фронтенд**: React, Redux, MobX, HTML, CSS, Bootstrap, Material ui
 - **Бэкенд**: Node.js, Express.js, REST API
 - **Базы данных**: PostgreSQL
 - **Инструменты разработки**: Git, CI/CD
@@ -14,8 +14,8 @@
 
 
 ## 📫 Как связаться со мной -->
-Email: danil.sergeew5555@yandex.ru
-Telegram: https://t.me/DanilSergeev_dev
+- Email: [danil.sergeew5555@yandex.ru](mailto:danil.sergeew5555@yandex.ru) 
+- Telegram: https://t.me/DanilSergeev_dev
 
 <!-- ## 📈 Статистика GitHub
 
@@ -26,7 +26,8 @@ Telegram: https://t.me/DanilSergeev_dev
 - [Название проекта 1](ссылка_на_проект) - краткое описание -->
 
 ## 🚩 Платформа для практики программирования
-- Code wars - https://www.codewars.com/users/Nelif
-- ![CodeWorsStatistics](https://www.codewars.com/users/Nelif/badges/large)
+Code wars - https://www.codewars.com/users/Nelif
+CodeWars — отличная платформа, на которой я улучшил свои знания и навыки в JavaScript. Она помогла мне научиться решать задачи более эффективно и лаконично, а также позволила закрепить теоретические знаниях на практике.
+![CodeWorsStatistics](https://www.codewars.com/users/Nelif/badges/micro)
 
 Спасибо, что заглянули! 😊
