@@ -14,19 +14,19 @@
 
 
 ## 📫 Как связаться со мной -->
-Email: [danil.sergeew5555@yandex.ru]
-<!-- LinkedIn: [Ваш профиль](https://www.linkedin.com/in/ваш-профиль) -->
+Email: danil.sergeew5555@yandex.ru
+Telegram: https://t.me/DanilSergeev_dev
 
-## 📈 Статистика GitHub
+<!-- ## 📈 Статистика GitHub
 
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=DanilSergeev&show_icons=true&theme=radical)
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=DanilSergeev&show_icons=true&theme=radical) -->
 
 <!-- ## 📝 Последние проекты
 
-- [Название проекта 1](ссылка_на_проект) - краткое описание
-- [Название проекта 2](ссылка_на_проект) - краткое описание -->
-🚩 Платформа для практики программирования
+- [Название проекта 1](ссылка_на_проект) - краткое описание -->
+
+## 🚩 Платформа для практики программирования
 - Code wars - https://www.codewars.com/users/Nelif
-![CodeWorsStatistics](https://www.codewars.com/users/Nelif/badges/large)
+- ![CodeWorsStatistics](https://www.codewars.com/users/Nelif/badges/large)
 
 Спасибо, что заглянули! 😊
