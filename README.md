@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## https://www.codewars.com/users/Nelif/badges/large
+![CodeWorsStatistics](https://www.codewars.com/users/Nelif/badges/large)
 
 
 <!--
