@@ -31,4 +31,4 @@ CodeWars — отличная платформа, на которой я улу�
 
 ![CodeWorsStatistics](https://www.codewars.com/users/Nelif/badges/micro)
 
-Спасибо, что заглянули! 😊
+Спасибо, что заглянули!
