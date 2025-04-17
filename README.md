@@ -1,34 +1,26 @@
-# Привет! 👋
+# Hello! 
+I am Danil, a web developer with experience in creating modern web applications. Welcome to my GitHub profile!
 
-Я — Данил, веб-разработчик с опытом работы в создании современных веб-приложений. Добро пожаловать в мой профиль GitHub!
+## 🔧 Technology and tool stack
 
-## 🔧 Стек технологий и инструментов
-
-- **Языки программирования**: JavaScript, TypeScript
-- **Фронтенд**: React, Redux, MobX, HTML, CSS, Bootstrap, Material ui
-- **Бэкенд**: Node.js, Express.js, REST API
-- **Базы данных**: PostgreSQL
-- **Инструменты разработки**: Git, CI/CD
-- **Тестирование**: Jest
-
+<!-- <img align="right" aligin="top" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="220px"/>  -->
+- **Programming languages**: JavaScript, TypeScript
+- **Frontend**: React, Redux, MobX, HTML, CSS, Bootstrap, Material ui
+- **Backend**: Node.js, Express.js, REST API
+- **Databases**: PostgreSQL
+- **Development tools**: Git, CI/CD
+- **Testing**: Jest
 
 
-## 📫 Как связаться со мной -->
+## 📫 How to contact me -->
 - Email: [danil.sergeew5555@yandex.ru](mailto:danil.sergeew5555@yandex.ru) 
 - Telegram: https://t.me/DanilSergeev_dev
 
-<!-- ## 📈 Статистика GitHub
-
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=DanilSergeev&show_icons=true&theme=radical) -->
-
-<!-- ## 📝 Последние проекты
-
-- [Название проекта 1](ссылка_на_проект) - краткое описание -->
-
-## 🚩 Платформа для практики программирования
+## 🚩 A platform for practicing programming
 Code wars - https://www.codewars.com/users/Nelif<br>
-CodeWars — отличная платформа, на которой я улучшил свои знания и навыки в JavaScript. Она помогла мне научиться решать задачи более эффективно и лаконично, а также позволила закрепить теоретические знаниях на практике.<br>
+CodeWars is a great platform where I improved my knowledge and skills in JavaScript. It helped me learn how to solve problems more efficiently and concisely, and also allowed me to consolidate my theoretical knowledge in practice.<br>
+
 
 ![CodeWorsStatistics](https://www.codewars.com/users/Nelif/badges/micro)
 
-Спасибо, что заглянули!
+Thank you for your attention!
