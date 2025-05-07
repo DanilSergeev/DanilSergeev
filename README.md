@@ -4,14 +4,6 @@ I am Danil, a web developer with experience in creating modern web applications.
 ## 🔧 Technology and tool stack
 
 <!-- <img align="right" aligin="top" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="220px"/>  -->
-- **Programming languages**: JavaScript, TypeScript
-- **Frontend**: React, Redux, MobX, HTML, CSS, Bootstrap, Material ui
-- **Backend**: Node.js, Express.js, REST API
-- **Databases**: PostgreSQL
-- **Development tools**: Git, CI/CD
-- **Testing**: Jest
-- 
-##  Skills
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -23,6 +15,14 @@ I am Danil, a web developer with experience in creating modern web applications.
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
+
+- **Programming languages**: JavaScript, TypeScript
+- **Frontend**: React, Redux, MobX, HTML, CSS, Bootstrap, Material ui
+- **Backend**: Node.js, Express.js, REST API
+- **Databases**: PostgreSQL
+- **Development tools**: Git, CI/CD
+- **Testing**: Jest
+  
 
 ## 📫 How to contact me
 - Email: [danil.sergeew5555@yandex.ru](mailto:danil.sergeew5555@yandex.ru) 
