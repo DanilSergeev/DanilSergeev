@@ -3,7 +3,7 @@ I am Danil, a web developer with experience in creating modern web applications.
 
 ## 🔧 Technology and tool stack
 
-<img align="right" aligin="top" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="210px"/>  
+<img align="right" aligin="top" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="194px"/>  
 
 - **Programming languages**: JavaScript, TypeScript
 - **Frontend**: React, Redux, MobX, HTML, CSS, Bootstrap, Material ui
