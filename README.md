@@ -7,7 +7,7 @@ I am Danil, a web developer with experience in creating modern web applications.
 
 - **Programming languages**: JavaScript, TypeScript
 - **Frontend**: React, Redux, MobX, HTML, CSS, Bootstrap, Material ui
-- **Backend**: Node.js, Express.js, REST API
+- **Backend**: Node.js, Express.js, REST API 
 - **Databases**: PostgreSQL
 - **Development tools**: Git, CI/CD
 - **Testing**: Jest
